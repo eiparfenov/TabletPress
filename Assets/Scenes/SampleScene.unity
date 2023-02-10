@@ -399,7 +399,7 @@ GameObject:
   - component: {fileID: 75795850}
   - component: {fileID: 75795852}
   - component: {fileID: 75795851}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Tabletpress_punchTopA
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -480,7 +480,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 77307534}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Matrix (16)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -494,7 +494,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 77307533}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalRotation: {x: -0, y: 0.8660254, z: -0, w: -0.50000006}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
@@ -512,7 +512,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 83676705}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Piston (17)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -526,8 +526,8 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 83676704}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -0.9237343, y: 10.509982, z: 0.4750024}
+  m_LocalRotation: {x: -0, y: 0.7933533, z: -0, w: -0.6087614}
+  m_LocalPosition: {x: -0.9237343, y: 10.313017, z: 0.4750024}
   m_LocalScale: {x: 10, y: 10, z: 10}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -544,7 +544,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 88288123}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Punch (19)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -558,7 +558,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 88288122}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalRotation: {x: -0, y: 0.6087614, z: -0, w: -0.7933533}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
@@ -647,7 +647,7 @@ GameObject:
   - component: {fileID: 104518078}
   - component: {fileID: 104518080}
   - component: {fileID: 104518079}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Tabletpress_matrix
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -730,7 +730,7 @@ GameObject:
   - component: {fileID: 123802445}
   - component: {fileID: 123802447}
   - component: {fileID: 123802446}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Tabletpress_punchTopA
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -813,7 +813,7 @@ GameObject:
   - component: {fileID: 138442849}
   - component: {fileID: 138442851}
   - component: {fileID: 138442850}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Tabletpress_punchBottomA
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -902,7 +902,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!81 &157207957
 AudioListener:
   m_ObjectHideFlags: 0
@@ -978,7 +978,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 159694529}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Piston (8)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -992,8 +992,8 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 159694528}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -0.9237343, y: 10.509982, z: 0.4750024}
+  m_LocalRotation: {x: -0, y: 0.86602545, z: -0, w: 0.49999997}
+  m_LocalPosition: {x: -0.9237343, y: 10.509586, z: 0.4750024}
   m_LocalScale: {x: 10, y: 10, z: 10}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -1010,7 +1010,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 161495429}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Piston (5)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1024,8 +1024,8 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 161495428}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -0.9237343, y: 10.509982, z: 0.4750024}
+  m_LocalRotation: {x: -0, y: 0.6087614, z: -0, w: 0.7933533}
+  m_LocalPosition: {x: -0.9237343, y: 10.509346, z: 0.4750024}
   m_LocalScale: {x: 10, y: 10, z: 10}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -1044,7 +1044,7 @@ GameObject:
   - component: {fileID: 174125799}
   - component: {fileID: 174125801}
   - component: {fileID: 174125800}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Tabletpress_punchBottomA
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1127,7 +1127,7 @@ GameObject:
   - component: {fileID: 212462379}
   - component: {fileID: 212462381}
   - component: {fileID: 212462380}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Tabletpress_punchTopA
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1210,7 +1210,7 @@ GameObject:
   - component: {fileID: 215962164}
   - component: {fileID: 215962166}
   - component: {fileID: 215962165}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Tabletpress_punchBottomA
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1291,7 +1291,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 216066181}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Piston (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1305,8 +1305,8 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 216066180}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -0.9237343, y: 10.509982, z: 0.4750024}
+  m_LocalRotation: {x: -0, y: 0.38268346, z: -0, w: 0.9238795}
+  m_LocalPosition: {x: -0.9237343, y: 10.510199, z: 0.4750024}
   m_LocalScale: {x: 10, y: 10, z: 10}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -1323,7 +1323,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 231987877}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Matrix (14)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1337,7 +1337,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 231987876}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalRotation: {x: -0, y: 0.9659259, z: -0, w: -0.25881907}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
@@ -1430,7 +1430,7 @@ GameObject:
   - component: {fileID: 317701009}
   - component: {fileID: 317701011}
   - component: {fileID: 317701010}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Tabletpress_punchBottomA
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1513,7 +1513,7 @@ GameObject:
   - component: {fileID: 336417007}
   - component: {fileID: 336417009}
   - component: {fileID: 336417008}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Tabletpress_punchTopA
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1594,7 +1594,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 337127422}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Piston (9)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1608,8 +1608,8 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 337127421}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -0.9237343, y: 10.509982, z: 0.4750024}
+  m_LocalRotation: {x: -0, y: 0.92387956, z: -0, w: 0.38268346}
+  m_LocalPosition: {x: -0.9237343, y: 10.508604, z: 0.4750024}
   m_LocalScale: {x: 10, y: 10, z: 10}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -1639,7 +1639,7 @@ GameObject:
   - component: {fileID: 341831207}
   - component: {fileID: 341831209}
   - component: {fileID: 341831208}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Tabletpress_punchBottomA
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1720,7 +1720,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 344189004}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Punch (5)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1734,7 +1734,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 344189003}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalRotation: {x: -0, y: 0.6087614, z: -0, w: 0.7933533}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
@@ -1754,7 +1754,7 @@ GameObject:
   - component: {fileID: 357022425}
   - component: {fileID: 357022427}
   - component: {fileID: 357022426}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Tabletpress_punchTopA
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1835,7 +1835,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 364415931}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Matrix (22)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1849,7 +1849,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 364415930}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalRotation: {x: -0, y: 0.25881913, z: -0, w: -0.9659258}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
@@ -1869,7 +1869,7 @@ GameObject:
   - component: {fileID: 367222736}
   - component: {fileID: 367222738}
   - component: {fileID: 367222737}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Tabletpress_punchBottomA
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2204,7 +2204,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 393668750}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Punch (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2218,7 +2218,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 393668749}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalRotation: {x: -0, y: 0.1305262, z: -0, w: 0.9914449}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
@@ -2267,7 +2267,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 431526401}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Punch (9)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2281,7 +2281,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 431526400}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalRotation: {x: -0, y: 0.92387956, z: -0, w: 0.38268346}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
@@ -2299,7 +2299,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 447961283}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Matrix (15)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2313,7 +2313,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 447961282}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalRotation: {x: -0, y: 0.92387956, z: -0, w: -0.3826834}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
@@ -2331,7 +2331,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 451960876}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Piston (20)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2345,8 +2345,8 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 451960875}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -0.9237343, y: 10.509982, z: 0.4750024}
+  m_LocalRotation: {x: -0, y: 0.50000006, z: -0, w: -0.8660254}
+  m_LocalPosition: {x: -0.9237343, y: 10.436237, z: 0.4750024}
   m_LocalScale: {x: 10, y: 10, z: 10}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -2365,7 +2365,7 @@ GameObject:
   - component: {fileID: 479118859}
   - component: {fileID: 479118861}
   - component: {fileID: 479118860}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Tabletpress_matrix
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2446,7 +2446,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 481624764}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Matrix (18)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2460,7 +2460,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 481624763}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalRotation: {x: -0, y: 0.7071068, z: -0, w: -0.7071068}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
@@ -2494,7 +2494,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 518760203}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Punch (8)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2508,7 +2508,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 518760202}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalRotation: {x: -0, y: 0.86602545, z: -0, w: 0.49999997}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
@@ -2526,7 +2526,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 521510231}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Punch (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2540,7 +2540,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 521510230}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalRotation: {x: -0, y: 0.38268346, z: -0, w: 0.9238795}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
@@ -2558,7 +2558,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 524142039}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Punch (15)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2572,7 +2572,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 524142038}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalRotation: {x: -0, y: 0.92387956, z: -0, w: -0.3826834}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
@@ -2920,7 +2920,7 @@ GameObject:
   - component: {fileID: 555929680}
   - component: {fileID: 555929682}
   - component: {fileID: 555929681}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Tabletpress_punchTopA
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3001,7 +3001,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 559825773}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Punch (18)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3015,7 +3015,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 559825772}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalRotation: {x: -0, y: 0.7071068, z: -0, w: -0.7071068}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
@@ -3035,7 +3035,7 @@ GameObject:
   - component: {fileID: 577492366}
   - component: {fileID: 577492368}
   - component: {fileID: 577492367}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Tabletpress_punchBottomA
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3183,7 +3183,7 @@ GameObject:
   - component: {fileID: 616181346}
   - component: {fileID: 616181348}
   - component: {fileID: 616181347}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Tabletpress_punchBottomA
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3264,7 +3264,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 617539301}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Punch (16)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3278,7 +3278,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 617539300}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalRotation: {x: -0, y: 0.8660254, z: -0, w: -0.50000006}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
@@ -3296,7 +3296,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 622443411}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Punch (12)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3310,7 +3310,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 622443410}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalRotation: {x: -0, y: 1, z: -0, w: -0.00000004371139}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
@@ -3330,7 +3330,7 @@ GameObject:
   - component: {fileID: 654686308}
   - component: {fileID: 654686310}
   - component: {fileID: 654686309}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Tabletpress_punchTopA
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3413,7 +3413,7 @@ GameObject:
   - component: {fileID: 668415305}
   - component: {fileID: 668415307}
   - component: {fileID: 668415306}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Tabletpress_punchBottomA
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3494,7 +3494,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 669274074}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Punch (13)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3508,7 +3508,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 669274073}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalRotation: {x: -0, y: 0.9914449, z: -0, w: -0.13052621}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
@@ -3528,7 +3528,7 @@ GameObject:
   - component: {fileID: 677144145}
   - component: {fileID: 677144147}
   - component: {fileID: 677144146}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Tabletpress_punchBottomA
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3600,6 +3600,37 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 677144144}
   m_Mesh: {fileID: 3171561787993004303, guid: a2d89200046b9454a8b5a5f1234722a5, type: 3}
+--- !u!1 &687248846
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 687248847}
+  m_Layer: 0
+  m_Name: SpawnPoint0 (1)
+  m_TagString: Untagged
+  m_Icon: {fileID: 3306451490063965843, guid: 0000000000000000d000000000000000, type: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &687248847
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 687248846}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -1.12, y: 1.44, z: -0.83}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1889216568}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &698745915
 GameObject:
   m_ObjectHideFlags: 0
@@ -3669,7 +3700,7 @@ GameObject:
   - component: {fileID: 700715938}
   - component: {fileID: 700715940}
   - component: {fileID: 700715939}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Tabletpress_punchBottomA
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3752,7 +3783,7 @@ GameObject:
   - component: {fileID: 704321670}
   - component: {fileID: 704321672}
   - component: {fileID: 704321671}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Tabletpress_punchBottomA
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3833,7 +3864,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 705268495}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Piston (14)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3847,8 +3878,8 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 705268494}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -0.9237343, y: 10.509982, z: 0.4750024}
+  m_LocalRotation: {x: -0, y: 0.9659259, z: -0, w: -0.25881907}
+  m_LocalPosition: {x: -0.9237343, y: 10.4476595, z: 0.4750024}
   m_LocalScale: {x: 10, y: 10, z: 10}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -3980,7 +4011,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 737059826}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Piston (10)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3994,8 +4025,8 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 737059825}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -0.9237343, y: 10.509982, z: 0.4750024}
+  m_LocalRotation: {x: -0, y: 0.9659258, z: -0, w: 0.25881907}
+  m_LocalPosition: {x: -0.9237343, y: 10.505417, z: 0.4750024}
   m_LocalScale: {x: 10, y: 10, z: 10}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -4025,7 +4056,7 @@ GameObject:
   - component: {fileID: 740582000}
   - component: {fileID: 740582002}
   - component: {fileID: 740582001}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Tabletpress_punchBottomA
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4106,7 +4137,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 740870206}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Piston (21)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4120,8 +4151,8 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 740870205}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -0.9237343, y: 10.509982, z: 0.4750024}
+  m_LocalRotation: {x: -0, y: 0.3826835, z: -0, w: -0.9238795}
+  m_LocalPosition: {x: -0.9237343, y: 10.476339, z: 0.4750024}
   m_LocalScale: {x: 10, y: 10, z: 10}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -4151,7 +4182,7 @@ GameObject:
   - component: {fileID: 767358063}
   - component: {fileID: 767358065}
   - component: {fileID: 767358064}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Tabletpress_matrix
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4232,7 +4263,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 784113606}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Matrix (7)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4246,7 +4277,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 784113605}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalRotation: {x: -0, y: 0.7933533, z: -0, w: 0.6087614}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
@@ -4264,7 +4295,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 794361094}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Piston (15)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4278,8 +4309,8 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 794361093}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -0.9237343, y: 10.509982, z: 0.4750024}
+  m_LocalRotation: {x: -0, y: 0.92387956, z: -0, w: -0.3826834}
+  m_LocalPosition: {x: -0.9237343, y: 10.385661, z: 0.4750024}
   m_LocalScale: {x: 10, y: 10, z: 10}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -4298,7 +4329,7 @@ GameObject:
   - component: {fileID: 797228793}
   - component: {fileID: 797228795}
   - component: {fileID: 797228794}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Tabletpress_matrix
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4379,7 +4410,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 804361859}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Matrix (13)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4393,7 +4424,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 804361858}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalRotation: {x: -0, y: 0.9914449, z: -0, w: -0.13052621}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
@@ -4434,7 +4465,7 @@ GameObject:
   - component: {fileID: 814740222}
   - component: {fileID: 814740224}
   - component: {fileID: 814740223}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Tabletpress_matrix
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4517,7 +4548,7 @@ GameObject:
   - component: {fileID: 819352554}
   - component: {fileID: 819352556}
   - component: {fileID: 819352555}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Tabletpress_punchTopA
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4598,7 +4629,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 822321907}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Punch (21)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4612,7 +4643,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 822321906}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalRotation: {x: -0, y: 0.3826835, z: -0, w: -0.9238795}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
@@ -4835,7 +4866,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 850174660}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Piston (13)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4849,8 +4880,8 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 850174659}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -0.9237343, y: 10.509982, z: 0.4750024}
+  m_LocalRotation: {x: -0, y: 0.9914449, z: -0, w: -0.13052621}
+  m_LocalPosition: {x: -0.9237343, y: 10.472598, z: 0.4750024}
   m_LocalScale: {x: 10, y: 10, z: 10}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -4869,7 +4900,7 @@ GameObject:
   - component: {fileID: 871056603}
   - component: {fileID: 871056605}
   - component: {fileID: 871056604}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Tabletpress_matrix
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4952,7 +4983,7 @@ GameObject:
   - component: {fileID: 871510247}
   - component: {fileID: 871510249}
   - component: {fileID: 871510248}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Tabletpress_matrix
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5035,7 +5066,7 @@ GameObject:
   - component: {fileID: 879703211}
   - component: {fileID: 879703213}
   - component: {fileID: 879703212}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Tabletpress_matrix
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5118,7 +5149,7 @@ GameObject:
   - component: {fileID: 899738030}
   - component: {fileID: 899738032}
   - component: {fileID: 899738031}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Tabletpress_matrix
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5199,7 +5230,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 901864619}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Matrix (21)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5213,7 +5244,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 901864618}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalRotation: {x: -0, y: 0.3826835, z: -0, w: -0.9238795}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
@@ -5231,7 +5262,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 904262315}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Piston (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5245,8 +5276,8 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 904262314}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -0.9237343, y: 10.509982, z: 0.4750024}
+  m_LocalRotation: {x: -0, y: 0.25881907, z: -0, w: 0.9659259}
+  m_LocalPosition: {x: -0.9237343, y: 10.511082, z: 0.4750024}
   m_LocalScale: {x: 10, y: 10, z: 10}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -5265,7 +5296,7 @@ GameObject:
   - component: {fileID: 935918297}
   - component: {fileID: 935918299}
   - component: {fileID: 935918298}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Tabletpress_matrix
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5599,7 +5630,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1025610554}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Matrix (20)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5613,7 +5644,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1025610553}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalRotation: {x: -0, y: 0.50000006, z: -0, w: -0.8660254}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
@@ -5631,7 +5662,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1027491351}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Piston (23)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5645,8 +5676,8 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1027491350}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -0.9237343, y: 10.509982, z: 0.4750024}
+  m_LocalRotation: {x: -0, y: 0.13052633, z: -0, w: -0.9914449}
+  m_LocalPosition: {x: -0.9237343, y: 10.50436, z: 0.4750024}
   m_LocalScale: {x: 10, y: 10, z: 10}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -5717,7 +5748,7 @@ GameObject:
   - component: {fileID: 1037581482}
   - component: {fileID: 1037581484}
   - component: {fileID: 1037581483}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Tabletpress_punchTopA
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5798,7 +5829,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1047170465}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Matrix
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5832,7 +5863,7 @@ GameObject:
   - component: {fileID: 1049863960}
   - component: {fileID: 1049863962}
   - component: {fileID: 1049863961}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Tabletpress_punchTopA
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5904,6 +5935,37 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1049863959}
   m_Mesh: {fileID: -7604121299865352906, guid: a2d89200046b9454a8b5a5f1234722a5, type: 3}
+--- !u!1 &1061279939
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1061279940}
+  m_Layer: 0
+  m_Name: SpawnPoint0 (2)
+  m_TagString: Untagged
+  m_Icon: {fileID: 3306451490063965843, guid: 0000000000000000d000000000000000, type: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1061279940
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1061279939}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -0.62, y: 1.44, z: -0.83}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1889216568}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1079964785
 GameObject:
   m_ObjectHideFlags: 0
@@ -5915,7 +5977,7 @@ GameObject:
   - component: {fileID: 1079964786}
   - component: {fileID: 1079964788}
   - component: {fileID: 1079964787}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Tabletpress_punchTopA
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5998,7 +6060,7 @@ GameObject:
   - component: {fileID: 1095077477}
   - component: {fileID: 1095077479}
   - component: {fileID: 1095077478}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Tabletpress_matrix
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6081,7 +6143,7 @@ GameObject:
   - component: {fileID: 1113966441}
   - component: {fileID: 1113966443}
   - component: {fileID: 1113966442}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Tabletpress_punchBottomA
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6229,7 +6291,7 @@ GameObject:
   - component: {fileID: 1124459515}
   - component: {fileID: 1124459517}
   - component: {fileID: 1124459516}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Tabletpress_punchTopA
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6341,7 +6403,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1152696432}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Matrix (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6355,7 +6417,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1152696431}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalRotation: {x: -0, y: 0.25881907, z: -0, w: 0.9659259}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
@@ -6389,7 +6451,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1171183095}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Matrix (6)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6403,7 +6465,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1171183094}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalRotation: {x: -0, y: 0.7071068, z: -0, w: 0.7071068}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
@@ -6423,7 +6485,7 @@ GameObject:
   - component: {fileID: 1178485342}
   - component: {fileID: 1178485344}
   - component: {fileID: 1178485343}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Tabletpress_punchTopA
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6504,7 +6566,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1207616123}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Punch (11)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6518,7 +6580,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1207616122}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalRotation: {x: -0, y: 0.9914449, z: -0, w: 0.13052626}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
@@ -6536,7 +6598,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1215157976}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Shaft
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6568,7 +6630,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1217853410}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Punch (7)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6582,7 +6644,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1217853409}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalRotation: {x: -0, y: 0.7933533, z: -0, w: 0.6087614}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
@@ -6600,7 +6662,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1239375565}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Punches
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6655,7 +6717,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1265586155}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Piston (6)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6669,8 +6731,8 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1265586154}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -0.9237343, y: 10.509982, z: 0.4750024}
+  m_LocalRotation: {x: -0, y: 0.7071068, z: -0, w: 0.7071068}
+  m_LocalPosition: {x: -0.9237343, y: 10.508955, z: 0.4750024}
   m_LocalScale: {x: 10, y: 10, z: 10}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -6687,7 +6749,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1268408043}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Matrix (9)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6701,7 +6763,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1268408042}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalRotation: {x: -0, y: 0.92387956, z: -0, w: 0.38268346}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
@@ -6719,7 +6781,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1270651542}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Matrix (12)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6733,7 +6795,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1270651541}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalRotation: {x: -0, y: 1, z: -0, w: -0.00000004371139}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
@@ -6751,7 +6813,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1276420466}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Punch (17)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6765,7 +6827,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1276420465}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalRotation: {x: -0, y: 0.7933533, z: -0, w: -0.6087614}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
@@ -6874,7 +6936,7 @@ GameObject:
   - component: {fileID: 1303885662}
   - component: {fileID: 1303885664}
   - component: {fileID: 1303885663}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Tabletpress_punchTopA
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7068,7 +7130,7 @@ GameObject:
   m_Layer: 0
   m_Name: SpawnPoint0
   m_TagString: Untagged
-  m_Icon: {fileID: 0}
+  m_Icon: {fileID: 3306451490063965843, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
@@ -7080,7 +7142,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1331639023}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -0.922, y: 1.44, z: -0.494}
+  m_LocalPosition: {x: -1.62, y: 1.44, z: -0.83}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -7098,7 +7160,7 @@ GameObject:
   - component: {fileID: 1333319912}
   - component: {fileID: 1333319914}
   - component: {fileID: 1333319913}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Tabletpress_matrix
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7179,7 +7241,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1333778295}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Punch (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7193,7 +7255,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1333778294}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalRotation: {x: -0, y: 0.25881907, z: -0, w: 0.9659259}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
@@ -7213,7 +7275,7 @@ GameObject:
   - component: {fileID: 1343248627}
   - component: {fileID: 1343248629}
   - component: {fileID: 1343248628}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Tabletpress_punchBottomA
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7305,7 +7367,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1403059961}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Piston (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7319,8 +7381,8 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1403059960}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -0.9237343, y: 10.509982, z: 0.4750024}
+  m_LocalRotation: {x: -0, y: 0.5, z: -0, w: 0.8660254}
+  m_LocalPosition: {x: -0.9237343, y: 10.50967, z: 0.4750024}
   m_LocalScale: {x: 10, y: 10, z: 10}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -7339,7 +7401,7 @@ GameObject:
   - component: {fileID: 1432635764}
   - component: {fileID: 1432635766}
   - component: {fileID: 1432635765}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Tabletpress_matrix
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7422,7 +7484,7 @@ GameObject:
   - component: {fileID: 1443247035}
   - component: {fileID: 1443247037}
   - component: {fileID: 1443247036}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Tabletpress_punchBottomA
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7503,7 +7565,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1456567177}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Punch (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7517,7 +7579,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1456567176}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalRotation: {x: -0, y: 0.5, z: -0, w: 0.8660254}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
@@ -7537,7 +7599,7 @@ GameObject:
   - component: {fileID: 1459891511}
   - component: {fileID: 1459891513}
   - component: {fileID: 1459891512}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Tabletpress_punchBottomA
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7620,7 +7682,7 @@ GameObject:
   - component: {fileID: 1470852848}
   - component: {fileID: 1470852850}
   - component: {fileID: 1470852849}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Tabletpress_punchTopA
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7701,7 +7763,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1475457194}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Piston (22)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7715,8 +7777,8 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1475457193}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -0.9237343, y: 10.509982, z: 0.4750024}
+  m_LocalRotation: {x: -0, y: 0.25881913, z: -0, w: -0.9659258}
+  m_LocalPosition: {x: -0.9237343, y: 10.495162, z: 0.4750024}
   m_LocalScale: {x: 10, y: 10, z: 10}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -7735,7 +7797,7 @@ GameObject:
   - component: {fileID: 1475718146}
   - component: {fileID: 1475718148}
   - component: {fileID: 1475718147}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Tabletpress_matrix
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7834,7 +7896,7 @@ GameObject:
   - component: {fileID: 1487502815}
   - component: {fileID: 1487502817}
   - component: {fileID: 1487502816}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Tabletpress_matrix
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7917,7 +7979,7 @@ GameObject:
   - component: {fileID: 1492918394}
   - component: {fileID: 1492918396}
   - component: {fileID: 1492918395}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Tabletpress_matrix
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8000,7 +8062,7 @@ GameObject:
   - component: {fileID: 1500520384}
   - component: {fileID: 1500520386}
   - component: {fileID: 1500520385}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Tabletpress_matrix
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8083,7 +8145,7 @@ GameObject:
   - component: {fileID: 1500602045}
   - component: {fileID: 1500602047}
   - component: {fileID: 1500602046}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Tabletpress_matrix
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8164,7 +8226,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1515527407}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Piston (19)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8178,8 +8240,8 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1515527406}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -0.9237343, y: 10.509982, z: 0.4750024}
+  m_LocalRotation: {x: -0, y: 0.6087614, z: -0, w: -0.7933533}
+  m_LocalPosition: {x: -0.9237343, y: 10.386475, z: 0.4750024}
   m_LocalScale: {x: 10, y: 10, z: 10}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -8196,7 +8258,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1518276724}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Matrix (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8210,7 +8272,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1518276723}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalRotation: {x: -0, y: 0.1305262, z: -0, w: 0.9914449}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
@@ -8230,7 +8292,7 @@ GameObject:
   - component: {fileID: 1525992526}
   - component: {fileID: 1525992528}
   - component: {fileID: 1525992527}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Tabletpress_punchTopA
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8311,7 +8373,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1534038504}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Piston (12)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8325,8 +8387,8 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1534038503}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -0.9237343, y: 10.509982, z: 0.4750024}
+  m_LocalRotation: {x: -0, y: 1, z: -0, w: -0.00000004371139}
+  m_LocalPosition: {x: -0.9237343, y: 10.488417, z: 0.4750024}
   m_LocalScale: {x: 10, y: 10, z: 10}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -8343,7 +8405,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1542378852}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Piston (16)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8357,8 +8419,8 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1542378851}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -0.9237343, y: 10.509982, z: 0.4750024}
+  m_LocalRotation: {x: -0, y: 0.8660254, z: -0, w: -0.50000006}
+  m_LocalPosition: {x: -0.9237343, y: 10.323746, z: 0.4750024}
   m_LocalScale: {x: 10, y: 10, z: 10}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -8375,7 +8437,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1582588999}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Punch (22)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8389,7 +8451,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1582588998}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalRotation: {x: -0, y: 0.25881913, z: -0, w: -0.9659258}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
@@ -8407,7 +8469,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1588643783}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Matrix (10)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8421,7 +8483,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1588643782}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalRotation: {x: -0, y: 0.9659258, z: -0, w: 0.25881907}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
@@ -8439,7 +8501,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1592571980}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Matrix (8)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8453,7 +8515,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1592571979}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalRotation: {x: -0, y: 0.86602545, z: -0, w: 0.49999997}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
@@ -8471,7 +8533,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1608578003}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Punch (20)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8485,7 +8547,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1608578002}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalRotation: {x: -0, y: 0.50000006, z: -0, w: -0.8660254}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
@@ -8574,7 +8636,7 @@ GameObject:
   - component: {fileID: 1642497873}
   - component: {fileID: 1642497875}
   - component: {fileID: 1642497874}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Tabletpress_punchTopA
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8655,7 +8717,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1646478665}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Matrix (11)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8669,7 +8731,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1646478664}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalRotation: {x: -0, y: 0.9914449, z: -0, w: 0.13052626}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
@@ -8754,7 +8816,7 @@ GameObject:
   - component: {fileID: 1652686174}
   - component: {fileID: 1652686176}
   - component: {fileID: 1652686175}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Tabletpress_punchTopA
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8837,7 +8899,7 @@ GameObject:
   - component: {fileID: 1676229793}
   - component: {fileID: 1676229795}
   - component: {fileID: 1676229794}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Tabletpress_punchTopA
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8918,7 +8980,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1682380112}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Punch (6)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8932,7 +8994,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1682380111}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalRotation: {x: -0, y: 0.7071068, z: -0, w: 0.7071068}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
@@ -8950,7 +9012,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1693625618}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Punch (10)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8964,7 +9026,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1693625617}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalRotation: {x: -0, y: 0.9659258, z: -0, w: 0.25881907}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
@@ -9082,7 +9144,7 @@ GameObject:
   - component: {fileID: 1717186697}
   - component: {fileID: 1717186699}
   - component: {fileID: 1717186698}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Tabletpress_matrix
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9263,7 +9325,7 @@ GameObject:
   - component: {fileID: 1739693923}
   - component: {fileID: 1739693925}
   - component: {fileID: 1739693924}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Tabletpress_punchTopA
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9344,7 +9406,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1740116576}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Matrix (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9358,7 +9420,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1740116575}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalRotation: {x: -0, y: 0.38268346, z: -0, w: 0.9238795}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
@@ -9376,7 +9438,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1742096508}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Piston
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9391,7 +9453,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1742096507}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -0.9237343, y: 10.509982, z: 0.4750024}
+  m_LocalPosition: {x: -0.9237343, y: 10.509312, z: 0.4750024}
   m_LocalScale: {x: 10, y: 10, z: 10}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -9410,7 +9472,7 @@ GameObject:
   - component: {fileID: 1751642768}
   - component: {fileID: 1751642770}
   - component: {fileID: 1751642769}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Tabletpress_punchTopA
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9607,7 +9669,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1760468570}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Matrix (19)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9621,7 +9683,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1760468569}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalRotation: {x: -0, y: 0.6087614, z: -0, w: -0.7933533}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
@@ -9639,7 +9701,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1761593349}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Piston (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9653,8 +9715,8 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1761593348}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -0.9237343, y: 10.509982, z: 0.4750024}
+  m_LocalRotation: {x: -0, y: 0.1305262, z: -0, w: 0.9914449}
+  m_LocalPosition: {x: -0.9237343, y: 10.511169, z: 0.4750024}
   m_LocalScale: {x: 10, y: 10, z: 10}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -9744,7 +9806,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1789083906}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Matrix (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9758,7 +9820,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1789083905}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalRotation: {x: -0, y: 0.5, z: -0, w: 0.8660254}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
@@ -9883,7 +9945,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1801537784}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Piston (7)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9897,8 +9959,8 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1801537783}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -0.9237343, y: 10.509982, z: 0.4750024}
+  m_LocalRotation: {x: -0, y: 0.7933533, z: -0, w: 0.6087614}
+  m_LocalPosition: {x: -0.9237343, y: 10.509369, z: 0.4750024}
   m_LocalScale: {x: 10, y: 10, z: 10}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -9917,7 +9979,7 @@ GameObject:
   - component: {fileID: 1809130288}
   - component: {fileID: 1809130290}
   - component: {fileID: 1809130289}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Tabletpress_punchBottomA
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10000,7 +10062,7 @@ GameObject:
   - component: {fileID: 1821716555}
   - component: {fileID: 1821716557}
   - component: {fileID: 1821716556}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Tabletpress_matrix
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10081,7 +10143,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1830326223}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Matrix (23)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10095,7 +10157,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1830326222}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalRotation: {x: -0, y: 0.13052633, z: -0, w: -0.9914449}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
@@ -10115,7 +10177,7 @@ GameObject:
   - component: {fileID: 1839171242}
   - component: {fileID: 1839171244}
   - component: {fileID: 1839171243}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Tabletpress_punchTopA
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10240,7 +10302,7 @@ GameObject:
   - component: {fileID: 1870661071}
   - component: {fileID: 1870661073}
   - component: {fileID: 1870661072}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Tabletpress_punchBottomA
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10321,7 +10383,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1885912315}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Piston (11)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10335,8 +10397,8 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1885912314}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -0.9237343, y: 10.509982, z: 0.4750024}
+  m_LocalRotation: {x: -0, y: 0.9914449, z: -0, w: 0.13052626}
+  m_LocalPosition: {x: -0.9237343, y: 10.499022, z: 0.4750024}
   m_LocalScale: {x: 10, y: 10, z: 10}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -10353,7 +10415,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1889216568}
-  - component: {fileID: 1889216567}
   - component: {fileID: 1889216566}
   m_Layer: 0
   m_Name: Singletons
@@ -10369,55 +10430,36 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1889216565}
-  m_Enabled: 0
+  m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: c9a37f1c06bd495589994d3957e32679, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  components:
-  - <name>k__BackingField: OverlayRight
-    <ComponentPref>k__BackingField: {fileID: 8899875403600655818, guid: 8f7b39a92b8aa7048b06118e70ff7476, type: 3}
-    <TargetPoint>k__BackingField: {fileID: 252229475793886979}
-    <attachDistance>k__BackingField: 0.1
-  - <name>k__BackingField: FixatorRear
-    <ComponentPref>k__BackingField: {fileID: 8899875403600655818, guid: ff8f25c19ce879f4ca0b8dc05f875111, type: 3}
-    <TargetPoint>k__BackingField: {fileID: 5881684159163210590}
-    <attachDistance>k__BackingField: 0.1
-  - <name>k__BackingField: FixatorFront
-    <ComponentPref>k__BackingField: {fileID: 8899875403600655818, guid: f17f241490e22644ebd20336a16edeb1, type: 3}
-    <TargetPoint>k__BackingField: {fileID: 8171445677483268128}
-    <attachDistance>k__BackingField: 0.1
-  - <name>k__BackingField: FunelL
-    <ComponentPref>k__BackingField: {fileID: 8899875403600655818, guid: 5d20d36ec5c02fc499cbb31ad6ffad8b, type: 3}
-    <TargetPoint>k__BackingField: {fileID: 8226895876179564156}
-    <attachDistance>k__BackingField: 0.1
-  - <name>k__BackingField: FunelS
-    <ComponentPref>k__BackingField: {fileID: 8899875403600655818, guid: c90ffa2827f1cdd47b736182d6cec58e, type: 3}
-    <TargetPoint>k__BackingField: {fileID: 6302929710066238018}
-    <attachDistance>k__BackingField: 0.1
-  - <name>k__BackingField: OverlayLeft
-    <ComponentPref>k__BackingField: {fileID: 8899875403600655818, guid: 98602f1c7b1a6f849a9b7ae5d75b3015, type: 3}
-    <TargetPoint>k__BackingField: {fileID: 5297113366345274601}
-    <attachDistance>k__BackingField: 0.1
+  scenario: {fileID: 11400000, guid: c85c81af5ce6d424cab85749e0e74560, type: 2}
   spawnPoints:
   - {fileID: 1331639024}
+  - {fileID: 687248847}
+  - {fileID: 1061279940}
   hintMaterial: {fileID: 2100000, guid: 460c9bc567ce45141a603e24f338a2e6, type: 2}
---- !u!114 &1889216567
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1889216565}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 745830f86db64026854f5e0f7c4b5d38, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  constructionController: {fileID: 1889216566}
-  componentIdx: 0
-  spawnPointIdx: 0
-  tempButton: 1
+  noHintMaterial: {fileID: 2100000, guid: 32b2d57ff4b635249866ea4eb878307b, type: 2}
+  partPrefab: {fileID: 5599998988215754073, guid: 0c68fc6d61cbf42479619b53309d7dfe, type: 3}
+  parts:
+  - {fileID: 8002710499600413173}
+  - {fileID: 7412754026019726754}
+  - {fileID: 8106364348154991779}
+  - {fileID: 7312683048678051966}
+  - {fileID: 6343302543709602300}
+  - {fileID: 9136261278296803795}
+  - {fileID: 6209052852239861148}
+  - {fileID: 8226895876179564158}
+  - {fileID: 5713440650136205893}
+  - {fileID: 9018807938182791790}
+  - {fileID: 7035958829193491648}
+  - {fileID: 6019400924717841344}
+  - {fileID: 3222293385326798890}
+  - {fileID: 6633600684675749563}
+  - {fileID: 6337965647953742398}
+  - {fileID: 8171445677483268129}
 --- !u!4 &1889216568
 Transform:
   m_ObjectHideFlags: 0
@@ -10431,6 +10473,8 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 1331639024}
+  - {fileID: 687248847}
+  - {fileID: 1061279940}
   m_Father: {fileID: 0}
   m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -10513,7 +10557,7 @@ GameObject:
   - component: {fileID: 1912046432}
   - component: {fileID: 1912046434}
   - component: {fileID: 1912046433}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Tabletpress_matrix
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10728,7 +10772,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 107946, guid: dc06161b6d97feb419f45f03b62e14b9, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 447954, guid: dc06161b6d97feb419f45f03b62e14b9, type: 3}
       propertyPath: m_RootOrder
@@ -10832,7 +10876,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1962365450}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Piston (18)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10846,8 +10890,8 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1962365449}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -0.9237343, y: 10.509982, z: 0.4750024}
+  m_LocalRotation: {x: -0, y: 0.7071068, z: -0, w: -0.7071068}
+  m_LocalPosition: {x: -0.9237343, y: 10.340813, z: 0.4750024}
   m_LocalScale: {x: 10, y: 10, z: 10}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -11120,7 +11164,7 @@ GameObject:
   - component: {fileID: 1983647334}
   - component: {fileID: 1983647336}
   - component: {fileID: 1983647335}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Tabletpress_punchTopA
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11203,7 +11247,7 @@ GameObject:
   - component: {fileID: 1984691528}
   - component: {fileID: 1984691530}
   - component: {fileID: 1984691529}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Tabletpress_punchBottomA
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11338,7 +11382,7 @@ GameObject:
   - component: {fileID: 2010680913}
   - component: {fileID: 2010680915}
   - component: {fileID: 2010680914}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Tabletpress_punchBottomA
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11419,7 +11463,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2024469193}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Punch
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11453,7 +11497,7 @@ GameObject:
   - component: {fileID: 2046317027}
   - component: {fileID: 2046317029}
   - component: {fileID: 2046317028}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Tabletpress_punchBottomA
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11534,7 +11578,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2061137485}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Matrix (17)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11548,7 +11592,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2061137484}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalRotation: {x: -0, y: 0.7933533, z: -0, w: -0.6087614}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
@@ -11620,7 +11664,7 @@ GameObject:
   - component: {fileID: 2104676201}
   - component: {fileID: 2104676203}
   - component: {fileID: 2104676202}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Tabletpress_matrix
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11701,7 +11745,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2109193336}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Matrixes
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11756,7 +11800,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2109957185}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Punch (23)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11770,7 +11814,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2109957184}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalRotation: {x: -0, y: 0.13052633, z: -0, w: -0.9914449}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
@@ -11853,7 +11897,7 @@ GameObject:
   - component: {fileID: 2119898263}
   - component: {fileID: 2119898265}
   - component: {fileID: 2119898264}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Tabletpress_matrix
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11936,7 +11980,7 @@ GameObject:
   - component: {fileID: 2121118406}
   - component: {fileID: 2121118408}
   - component: {fileID: 2121118407}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Tabletpress_punchBottomA
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12136,7 +12180,7 @@ MonoBehaviour:
   - {fileID: 364415931}
   - {fileID: 1830326223}
   settings: {fileID: 11400000, guid: c347073f2ef9ead4291b607c613e7995, type: 2}
-  <rotating>k__BackingField: 1
+  <rotating>k__BackingField: 0
 --- !u!1 &2133316037
 GameObject:
   m_ObjectHideFlags: 0
@@ -12146,7 +12190,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2133316038}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Rotor
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12178,7 +12222,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2133330540}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Matrix (5)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12192,7 +12236,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2133330539}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalRotation: {x: -0, y: 0.6087614, z: -0, w: 0.7933533}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
@@ -12210,7 +12254,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2140031178}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Punch (14)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12224,7 +12268,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2140031177}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalRotation: {x: -0, y: 0.9659259, z: -0, w: -0.25881907}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
@@ -12510,7 +12554,7 @@ GameObject:
   - component: {fileID: 949952713342985380}
   - component: {fileID: 4031032822826988270}
   - component: {fileID: 1745431362961872730}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Tabletpress_feeder
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12528,7 +12572,7 @@ GameObject:
   - component: {fileID: 6375844236012761934}
   - component: {fileID: 3697917970932686337}
   - component: {fileID: 1838898593387995573}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Tabletpress_switchPressureM
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12609,8 +12653,10 @@ GameObject:
   - component: {fileID: 585205431008093358}
   - component: {fileID: 3222293385326798888}
   - component: {fileID: 651223639357906937}
-  m_Layer: 0
-  m_Name: Tabletpress_screwXL
+  - component: {fileID: 3222293385326798890}
+  - component: {fileID: 3222293385326798889}
+  m_Layer: 3
+  m_Name: Tabletpress_screwXL 2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -12627,7 +12673,7 @@ GameObject:
   - component: {fileID: 8018754200053654305}
   - component: {fileID: 5008175548092960391}
   - component: {fileID: 1099175363400467000}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Tabletpress_punchBottomA
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12907,7 +12953,7 @@ GameObject:
   - component: {fileID: 8545403104447589241}
   - component: {fileID: 2076177818566901139}
   - component: {fileID: 4888161165782809573}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Tabletpress_leftPannelSwitchKnobTop
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -13422,7 +13468,9 @@ GameObject:
   - component: {fileID: 9136261278296803793}
   - component: {fileID: 280599665900798870}
   - component: {fileID: 6876456065172782915}
-  m_Layer: 0
+  - component: {fileID: 9136261278296803795}
+  - component: {fileID: 9136261278296803794}
+  m_Layer: 3
   m_Name: Tabletpress_screwM 1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -13576,7 +13624,7 @@ GameObject:
   - component: {fileID: 3788869972118017681}
   - component: {fileID: 812304399580667474}
   - component: {fileID: 665586833819319613}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Tabletpress_rotor
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -13594,7 +13642,7 @@ GameObject:
   - component: {fileID: 5627669524504707913}
   - component: {fileID: 252897275840621238}
   - component: {fileID: 1896435768251147177}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Tabletpress_switchPressureLLeft
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -13889,7 +13937,7 @@ GameObject:
   - component: {fileID: 3223760528588072244}
   - component: {fileID: 7023687200526592923}
   - component: {fileID: 8941553958041657706}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Tabletpress_emergencyStopButton
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14077,7 +14125,7 @@ GameObject:
   - component: {fileID: 214868154158670220}
   - component: {fileID: 7953615044800276494}
   - component: {fileID: 6048341755520747707}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Tabletpress_leftPannelIndicatorRed
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14217,7 +14265,9 @@ GameObject:
   - component: {fileID: 497236198749718839}
   - component: {fileID: 6633600684675749561}
   - component: {fileID: 252229475793886979}
-  m_Layer: 0
+  - component: {fileID: 6633600684675749563}
+  - component: {fileID: 6633600684675749562}
+  m_Layer: 3
   m_Name: Tabletpress_overlayRight
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14370,7 +14420,9 @@ GameObject:
   - component: {fileID: 7035958829193491646}
   - component: {fileID: 5446989317839465049}
   - component: {fileID: 6302929710066238018}
-  m_Layer: 0
+  - component: {fileID: 7035958829193491648}
+  - component: {fileID: 7035958829193491647}
+  m_Layer: 3
   m_Name: Tabletpress_funnelS
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14821,6 +14873,35 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 599598600978688229}
   m_Mesh: {fileID: -3626189003277161122, guid: a2d89200046b9454a8b5a5f1234722a5, type: 3}
+--- !u!64 &3222293385326798889
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 599598600978688229}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 1
+  m_CookingOptions: 30
+  m_Mesh: {fileID: -3626189003277161122, guid: a2d89200046b9454a8b5a5f1234722a5, type: 3}
+--- !u!114 &3222293385326798890
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 599598600978688229}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bd2bacd8f8734551adcc6884659197d1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  <Name>k__BackingField: ScrewXL 2
+  <ContactDistance>k__BackingField: 0.1
+  <Renderer>k__BackingField: {fileID: 651223639357906937}
 --- !u!4 &3223760528588072244
 Transform:
   m_ObjectHideFlags: 0
@@ -14976,7 +15057,7 @@ GameObject:
   - component: {fileID: 4661124973113237984}
   - component: {fileID: 3170037789261817359}
   - component: {fileID: 4846545771867290215}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Tabletpress_leftPannelIndicatorYellow
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -15052,7 +15133,7 @@ GameObject:
   - component: {fileID: 422431685786958172}
   - component: {fileID: 1782026180314600727}
   - component: {fileID: 7383029957476420931}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Tabletpress_powerSwitchKnob
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -15159,8 +15240,10 @@ GameObject:
   - component: {fileID: 6209052852239861146}
   - component: {fileID: 3249011843334547972}
   - component: {fileID: 4499723516177975166}
-  m_Layer: 0
-  m_Name: Tabletpress_screwM
+  - component: {fileID: 6209052852239861148}
+  - component: {fileID: 6209052852239861147}
+  m_Layer: 3
+  m_Name: Tabletpress_screwM 2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -15203,7 +15286,7 @@ GameObject:
   - component: {fileID: 3812775619173728156}
   - component: {fileID: 8888287464499153486}
   - component: {fileID: 2915296833497787857}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Tabletpress_matrix
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -15251,7 +15334,7 @@ GameObject:
   - component: {fileID: 6146252437526519975}
   - component: {fileID: 4839835090057262371}
   - component: {fileID: 9200407640403290022}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Tabletpress_leftPannelSwitchKnobBottom
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -15319,7 +15402,7 @@ GameObject:
   - component: {fileID: 6406804678069217428}
   - component: {fileID: 3860916132331676989}
   - component: {fileID: 5025955990895558658}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Tabletpress_leftPannelButtonRedTop
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -15493,7 +15576,7 @@ GameObject:
   - component: {fileID: 2000663117654262626}
   - component: {fileID: 4811954398598916112}
   - component: {fileID: 2954052401869195507}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Tabletpress_leftPannelButtonGreenTop
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -15553,7 +15636,7 @@ GameObject:
   - component: {fileID: 2596202664933051436}
   - component: {fileID: 5848725487864705750}
   - component: {fileID: 100021226109496619}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Tabletpress_switchKnobSensor
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -15884,7 +15967,7 @@ GameObject:
   - component: {fileID: 5520576136058427385}
   - component: {fileID: 7322253425655763753}
   - component: {fileID: 8692705248211210093}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Tabletpress_body
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -16340,7 +16423,7 @@ GameObject:
   - component: {fileID: 702127154901264926}
   - component: {fileID: 1167101269022706546}
   - component: {fileID: 1633003886667475110}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Tabletpress_leftPannelButtonGreenBottom
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -16467,7 +16550,9 @@ GameObject:
   - component: {fileID: 2322002510238778879}
   - component: {fileID: 7785029370870528720}
   - component: {fileID: 8171445677483268128}
-  m_Layer: 0
+  - component: {fileID: 8171445677483268129}
+  - component: {fileID: 8171445677483268130}
+  m_Layer: 3
   m_Name: Tabletpress_fixatorFront
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -16551,7 +16636,9 @@ GameObject:
   - component: {fileID: 5689527611709904891}
   - component: {fileID: 5713440650136205891}
   - component: {fileID: 3227936596931159194}
-  m_Layer: 0
+  - component: {fileID: 5713440650136205893}
+  - component: {fileID: 5713440650136205892}
+  m_Layer: 3
   m_Name: Tabletpress_output
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -16569,7 +16656,7 @@ GameObject:
   - component: {fileID: 7895549054833905840}
   - component: {fileID: 4030864739998887936}
   - component: {fileID: 2270817527369398179}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Tabletpress_leftPannelButton
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -16681,7 +16768,9 @@ GameObject:
   - component: {fileID: 2142386987967028530}
   - component: {fileID: 6337965647953742396}
   - component: {fileID: 5881684159163210590}
-  m_Layer: 0
+  - component: {fileID: 6337965647953742398}
+  - component: {fileID: 6337965647953742397}
+  m_Layer: 3
   m_Name: Tabletpress_fixatorRear
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -16976,7 +17065,9 @@ GameObject:
   - component: {fileID: 7312683048678051964}
   - component: {fileID: 5701369024985564053}
   - component: {fileID: 2660562385420511292}
-  m_Layer: 0
+  - component: {fileID: 7312683048678051966}
+  - component: {fileID: 7312683048678051965}
+  m_Layer: 3
   m_Name: Tabletpress_screwS 1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -17046,7 +17137,9 @@ GameObject:
   - component: {fileID: 5496780211335406113}
   - component: {fileID: 7238643801717499887}
   - component: {fileID: 8226895876179564156}
-  m_Layer: 0
+  - component: {fileID: 8226895876179564158}
+  - component: {fileID: 8226895876179564157}
+  m_Layer: 3
   m_Name: Tabletpress_funnelL
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -17195,7 +17288,7 @@ GameObject:
   - component: {fileID: 3336827448937158305}
   - component: {fileID: 6842132845672610130}
   - component: {fileID: 2887995425785763768}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Tabletpress_switchPressureLRight
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -17273,7 +17366,7 @@ GameObject:
   - component: {fileID: 2512448277895366282}
   - component: {fileID: 1678132050730547486}
   - component: {fileID: 8977765215491257004}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Tabletpress_switchKnobAir
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -17403,6 +17496,35 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 4967501392482493936}
   m_Mesh: {fileID: 6056455192325111489, guid: a2d89200046b9454a8b5a5f1234722a5, type: 3}
+--- !u!64 &5713440650136205892
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4967501392482493936}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 1
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 6056455192325111489, guid: a2d89200046b9454a8b5a5f1234722a5, type: 3}
+--- !u!114 &5713440650136205893
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4967501392482493936}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bd2bacd8f8734551adcc6884659197d1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  <Name>k__BackingField: Output
+  <ContactDistance>k__BackingField: 0.1
+  <Renderer>k__BackingField: {fileID: 3227936596931159194}
 --- !u!4 &5771885848682240799
 Transform:
   m_ObjectHideFlags: 0
@@ -17540,13 +17662,44 @@ GameObject:
   - component: {fileID: 1113171093041736890}
   - component: {fileID: 2123212488451128052}
   - component: {fileID: 5297113366345274601}
-  m_Layer: 0
+  - component: {fileID: 6019400924717841344}
+  - component: {fileID: 6019400924717841343}
+  m_Layer: 3
   m_Name: Tabletpress_overlayLeft
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+--- !u!64 &6019400924717841343
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6019400924717841342}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 1
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 4024479232551015054, guid: a2d89200046b9454a8b5a5f1234722a5, type: 3}
+--- !u!114 &6019400924717841344
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6019400924717841342}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bd2bacd8f8734551adcc6884659197d1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  <Name>k__BackingField: OverlayLeft
+  <ContactDistance>k__BackingField: 0.1
+  <Renderer>k__BackingField: {fileID: 5297113366345274601}
 --- !u!4 &6020190986838443933
 Transform:
   m_ObjectHideFlags: 0
@@ -17689,6 +17842,35 @@ Transform:
   m_Father: {fileID: 1949606031607851089}
   m_RootOrder: 26
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!64 &6209052852239861147
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3642253230229743415}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 1
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 3954759950114917924, guid: a2d89200046b9454a8b5a5f1234722a5, type: 3}
+--- !u!114 &6209052852239861148
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3642253230229743415}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bd2bacd8f8734551adcc6884659197d1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  <Name>k__BackingField: ScrewM 2
+  <ContactDistance>k__BackingField: 0.1
+  <Renderer>k__BackingField: {fileID: 4499723516177975166}
 --- !u!23 &6302929710066238018
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -17742,7 +17924,7 @@ GameObject:
   - component: {fileID: 5064092949054650419}
   - component: {fileID: 8106496376345217895}
   - component: {fileID: 8864816158685763283}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Tabletpress_shaft
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -17757,6 +17939,35 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 5028780207491506806}
   m_Mesh: {fileID: 693386047435157773, guid: a2d89200046b9454a8b5a5f1234722a5, type: 3}
+--- !u!64 &6337965647953742397
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5028780207491506806}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 1
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 693386047435157773, guid: a2d89200046b9454a8b5a5f1234722a5, type: 3}
+--- !u!114 &6337965647953742398
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5028780207491506806}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bd2bacd8f8734551adcc6884659197d1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  <Name>k__BackingField: FixatorRear
+  <ContactDistance>k__BackingField: 0.1
+  <Renderer>k__BackingField: {fileID: 5881684159163210590}
 --- !u!1 &6343302543709602298
 GameObject:
   m_ObjectHideFlags: 0
@@ -17768,13 +17979,44 @@ GameObject:
   - component: {fileID: 5321742077181868348}
   - component: {fileID: 3072829220840321671}
   - component: {fileID: 2576403344676990118}
-  m_Layer: 0
+  - component: {fileID: 6343302543709602300}
+  - component: {fileID: 6343302543709602299}
+  m_Layer: 3
   m_Name: Tabletpress_screwXS
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+--- !u!64 &6343302543709602299
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6343302543709602298}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 1
+  m_CookingOptions: 30
+  m_Mesh: {fileID: -8224298144402363480, guid: a2d89200046b9454a8b5a5f1234722a5, type: 3}
+--- !u!114 &6343302543709602300
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6343302543709602298}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bd2bacd8f8734551adcc6884659197d1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  <Name>k__BackingField: ScrewXS
+  <ContactDistance>k__BackingField: 0.1
+  <Renderer>k__BackingField: {fileID: 2576403344676990118}
 --- !u!4 &6375844236012761934
 Transform:
   m_ObjectHideFlags: 0
@@ -17816,13 +18058,13 @@ GameObject:
   - component: {fileID: 8280112117682417968}
   - component: {fileID: 3637501806671842243}
   - component: {fileID: 8653434279249956847}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Tabletpress_tabletA
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!1 &6445333758737533040
 GameObject:
   m_ObjectHideFlags: 0
@@ -17944,8 +18186,10 @@ GameObject:
   - component: {fileID: 511712533221369167}
   - component: {fileID: 8106364348154991777}
   - component: {fileID: 1651352103851096997}
-  m_Layer: 0
-  m_Name: Tabletpress_screwS
+  - component: {fileID: 8106364348154991779}
+  - component: {fileID: 8106364348154991778}
+  m_Layer: 3
+  m_Name: Tabletpress_screwS 2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -17976,6 +18220,35 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2302109770108084988}
   m_Mesh: {fileID: 7811042920830108104, guid: a2d89200046b9454a8b5a5f1234722a5, type: 3}
+--- !u!64 &6633600684675749562
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2302109770108084988}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 1
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 7811042920830108104, guid: a2d89200046b9454a8b5a5f1234722a5, type: 3}
+--- !u!114 &6633600684675749563
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2302109770108084988}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bd2bacd8f8734551adcc6884659197d1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  <Name>k__BackingField: OverlayRight
+  <ContactDistance>k__BackingField: 0.1
+  <Renderer>k__BackingField: {fileID: 252229475793886979}
 --- !u!23 &6641386756665140485
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -18197,6 +18470,35 @@ Transform:
   m_Father: {fileID: 1949606031607851089}
   m_RootOrder: 9
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!64 &7035958829193491647
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2642330013518297780}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 1
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 6254865002900418325, guid: a2d89200046b9454a8b5a5f1234722a5, type: 3}
+--- !u!114 &7035958829193491648
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2642330013518297780}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bd2bacd8f8734551adcc6884659197d1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  <Name>k__BackingField: FunnelS
+  <ContactDistance>k__BackingField: 0.1
+  <Renderer>k__BackingField: {fileID: 6302929710066238018}
 --- !u!1 &7090246777318776719
 GameObject:
   m_ObjectHideFlags: 0
@@ -18208,7 +18510,9 @@ GameObject:
   - component: {fileID: 7412754026019726752}
   - component: {fileID: 4124270274023036883}
   - component: {fileID: 6957193978069916681}
-  m_Layer: 0
+  - component: {fileID: 7412754026019726754}
+  - component: {fileID: 7412754026019726753}
+  m_Layer: 3
   m_Name: Tabletpress_screwL
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -18242,7 +18546,7 @@ GameObject:
   - component: {fileID: 3303974889855896229}
   - component: {fileID: 1584684456995571342}
   - component: {fileID: 7862927868036488015}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Tabletpress_punchTopA
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -18511,6 +18815,35 @@ Transform:
   m_Father: {fileID: 1949606031607851089}
   m_RootOrder: 29
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!64 &7312683048678051965
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5152217673020728884}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 1
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 9066278822384513547, guid: a2d89200046b9454a8b5a5f1234722a5, type: 3}
+--- !u!114 &7312683048678051966
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5152217673020728884}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bd2bacd8f8734551adcc6884659197d1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  <Name>k__BackingField: ScrewS 1
+  <ContactDistance>k__BackingField: 0.1
+  <Renderer>k__BackingField: {fileID: 2660562385420511292}
 --- !u!33 &7322253425655763753
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -18577,6 +18910,35 @@ Transform:
   m_Father: {fileID: 1949606031607851089}
   m_RootOrder: 25
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!64 &7412754026019726753
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7090246777318776719}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 1
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 7936087406556708499, guid: a2d89200046b9454a8b5a5f1234722a5, type: 3}
+--- !u!114 &7412754026019726754
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7090246777318776719}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bd2bacd8f8734551adcc6884659197d1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  <Name>k__BackingField: ScrewL
+  <ContactDistance>k__BackingField: 0.1
+  <Renderer>k__BackingField: {fileID: 6957193978069916681}
 --- !u!23 &7503481068029617133
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -19129,7 +19491,9 @@ GameObject:
   - component: {fileID: 9018807938182791788}
   - component: {fileID: 5539699815697690811}
   - component: {fileID: 2755179881327884063}
-  m_Layer: 0
+  - component: {fileID: 9018807938182791790}
+  - component: {fileID: 9018807938182791789}
+  m_Layer: 3
   m_Name: Tabletpress_screwXL 1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -19350,13 +19714,44 @@ GameObject:
   - component: {fileID: 1574086875785778740}
   - component: {fileID: 5328931249726761373}
   - component: {fileID: 355744427506390432}
-  m_Layer: 0
+  - component: {fileID: 8002710499600413173}
+  - component: {fileID: 8002710499600413172}
+  m_Layer: 3
   m_Name: Tabletpress_supportForFunnel
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+--- !u!64 &8002710499600413172
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8002710499600413171}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 1
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 3403372627130796150, guid: a2d89200046b9454a8b5a5f1234722a5, type: 3}
+--- !u!114 &8002710499600413173
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8002710499600413171}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bd2bacd8f8734551adcc6884659197d1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  <Name>k__BackingField: SupportForFunnel
+  <ContactDistance>k__BackingField: 0.1
+  <Renderer>k__BackingField: {fileID: 355744427506390432}
 --- !u!4 &8018754200053654305
 Transform:
   m_ObjectHideFlags: 0
@@ -19388,6 +19783,35 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 6619988922838044186}
   m_Mesh: {fileID: -8075193018404448551, guid: a2d89200046b9454a8b5a5f1234722a5, type: 3}
+--- !u!64 &8106364348154991778
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6619988922838044186}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 1
+  m_CookingOptions: 30
+  m_Mesh: {fileID: -8075193018404448551, guid: a2d89200046b9454a8b5a5f1234722a5, type: 3}
+--- !u!114 &8106364348154991779
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6619988922838044186}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bd2bacd8f8734551adcc6884659197d1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  <Name>k__BackingField: ScrewS 2
+  <ContactDistance>k__BackingField: 0.1
+  <Renderer>k__BackingField: {fileID: 1651352103851096997}
 --- !u!33 &8106496376345217895
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -19463,6 +19887,35 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!114 &8171445677483268129
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4859232419706788469}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bd2bacd8f8734551adcc6884659197d1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  <Name>k__BackingField: FixatorFront
+  <ContactDistance>k__BackingField: 0.1
+  <Renderer>k__BackingField: {fileID: 8171445677483268128}
+--- !u!64 &8171445677483268130
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4859232419706788469}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 1
+  m_CookingOptions: 30
+  m_Mesh: {fileID: -1042584622683245351, guid: a2d89200046b9454a8b5a5f1234722a5, type: 3}
 --- !u!1 &8172190594096956434
 GameObject:
   m_ObjectHideFlags: 0
@@ -19474,7 +19927,7 @@ GameObject:
   - component: {fileID: 8542997902694269351}
   - component: {fileID: 8357634128833013552}
   - component: {fileID: 5994946293313164565}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Tabletpress_leftPannelButtonRedBottom
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -19539,6 +19992,35 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!64 &8226895876179564157
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5226872543902714629}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 1
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 5853749787842476487, guid: a2d89200046b9454a8b5a5f1234722a5, type: 3}
+--- !u!114 &8226895876179564158
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5226872543902714629}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bd2bacd8f8734551adcc6884659197d1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  <Name>k__BackingField: FunnelL
+  <ContactDistance>k__BackingField: 0.3
+  <Renderer>k__BackingField: {fileID: 8226895876179564156}
 --- !u!4 &8280112117682417968
 Transform:
   m_ObjectHideFlags: 0
@@ -19934,7 +20416,7 @@ GameObject:
   - component: {fileID: 4599299215376854221}
   - component: {fileID: 6479916032830816215}
   - component: {fileID: 3130934694797452646}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Tabletpress_leftPannelButtonWhite
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -20984,6 +21466,35 @@ Transform:
   m_Father: {fileID: 1949606031607851089}
   m_RootOrder: 31
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!64 &9018807938182791789
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7774136355884031592}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 1
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 778242386726575274, guid: a2d89200046b9454a8b5a5f1234722a5, type: 3}
+--- !u!114 &9018807938182791790
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7774136355884031592}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bd2bacd8f8734551adcc6884659197d1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  <Name>k__BackingField: ScrewXL 1
+  <ContactDistance>k__BackingField: 0.1
+  <Renderer>k__BackingField: {fileID: 2755179881327884063}
 --- !u!23 &9083384274009219364
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -21314,6 +21825,35 @@ Transform:
   m_Father: {fileID: 1949606031607851089}
   m_RootOrder: 27
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!64 &9136261278296803794
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1624305013165774739}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 1
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 6589430513199626045, guid: a2d89200046b9454a8b5a5f1234722a5, type: 3}
+--- !u!114 &9136261278296803795
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1624305013165774739}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bd2bacd8f8734551adcc6884659197d1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  <Name>k__BackingField: ScrewM 1
+  <ContactDistance>k__BackingField: 0.1
+  <Renderer>k__BackingField: {fileID: 6876456065172782915}
 --- !u!33 &9137718512570096233
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -21580,7 +22120,7 @@ GameObject:
   - component: {fileID: 184696706073587457}
   - component: {fileID: 8072587804514906560}
   - component: {fileID: 6641386756665140485}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Tabletpress_switchJCMCO
   m_TagString: Untagged
   m_Icon: {fileID: 0}
