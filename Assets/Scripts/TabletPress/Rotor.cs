@@ -1,4 +1,5 @@
 using System;
+using NaughtyAttributes;
 using Unity.Mathematics;
 using UnityEngine;
 
@@ -18,7 +19,7 @@ namespace TabletPress
         [field:SerializeField] public bool rotating { get; set; }
 
         private float _progress;
-
+        [Button()]
         private void Start()
         {
             for (int i = 0; i < pistons.Length; i++)
