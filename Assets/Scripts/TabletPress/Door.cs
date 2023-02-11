@@ -4,7 +4,7 @@ using Utils;
 
 namespace TabletPress
 {
-    public class Door: MonoBehaviour
+    public class Door: MonoBehaviour, IDoor
     {
         [SerializeField] private Handle handle;
         [SerializeField] private Transform door;
@@ -27,6 +27,7 @@ namespace TabletPress
             if (opened)
             {
                 SetLimits(openAngle, 0f);
+                Opened = true;
             }
             else
             {
@@ -35,6 +36,7 @@ namespace TabletPress
                 if (AngleTranslator.GetAngle(Vector3.Dot(door.localEulerAngles, (Vector3)localEulerAxis)) <= switchAngle)
                 {
                     SetLimits(switchAngle, 0f);
+                    Opened = false;
                 }
                 else
                 {
@@ -68,7 +70,10 @@ namespace TabletPress
             if (AngleTranslator.GetAngle(Vector3.Dot(door.localEulerAngles, (Vector3)localEulerAxis)) <= switchAngle && !handle.Opened)
             {
                 SetLimits(switchAngle, 0f);
+                Opened = false;
             }
         }
+
+        [field: SerializeField] public bool Opened { get; private set; }
     }
 }

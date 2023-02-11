@@ -5,7 +5,7 @@ using Valve.VR.InteractionSystem;
 
 namespace TabletPress
 {
-    public class DoorTwo: MonoBehaviour
+    public class DoorTwo: MonoBehaviour, IDoor
     {
         [SerializeField] private Interactable[] interactables;
         [SerializeField] private Handle leftHandle;
@@ -36,7 +36,6 @@ namespace TabletPress
 
         private void InteractablesHandlerOnDetachAll()
         {
-            print("Lock");
             if ((targetTransform.position - door.position).magnitude < returnDistance)
             {
                 Lock(true);
@@ -45,6 +44,7 @@ namespace TabletPress
 
         private void Lock(bool locked)
         {
+            Opened = !locked;
             var state = locked ? ConfigurableJointMotion.Locked: ConfigurableJointMotion.Free;
             joint.xMotion = state;
             joint.yMotion = state;
@@ -65,5 +65,7 @@ namespace TabletPress
             if (door)
                 joint = door.GetComponent<ConfigurableJoint>();
         }
+
+        [field:SerializeField] public bool Opened { get; private set; }
     }
 }
