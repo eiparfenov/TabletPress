@@ -13,6 +13,7 @@ public class PlayerMovement:MonoBehaviour
                 0,
                 joystick.GetAxis(SteamVR_Input_Sources.LeftHand).y)
             );
-        transform.position += direction * speed * Time.deltaTime;
+        direction = direction * speed * Time.deltaTime;
+        transform.position += Vector3.ProjectOnPlane(direction, Vector3.up);
     }
 }
