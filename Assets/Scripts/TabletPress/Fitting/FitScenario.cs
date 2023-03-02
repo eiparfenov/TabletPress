@@ -16,5 +16,7 @@ namespace TabletPress.Fitting
         [field: SerializeField] public FittingStep[] FittingSteps { get; private set; }
         [field: SerializeField] public bool Fit { get; private set; }
         [field: SerializeField] public bool Use { get; private set; }
+        [field: SerializeField] public bool InstallPistons { get; private set; }
+        [field: SerializeField] public bool UnInstallPistons { get; private set; }
     }
 }

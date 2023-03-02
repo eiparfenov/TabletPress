@@ -8,6 +8,10 @@ namespace TabletPress
 {
     public class UsageController: MonoBehaviour
     {
+        public enum State
+        {
+             
+        }
         [SerializeField] private Switch power;
         [SerializeField] private Switch display;
         [SerializeField] private HoverButton greenTop;
@@ -20,26 +24,7 @@ namespace TabletPress
         private bool _displayShowText;
         public async UniTask Run()
         {
-            print(0);
-            await UniTask.WaitUntil(() => power.TurnedOn);
-            print(1);
-            await UniTask.WaitUntil(() => display.TurnedOn);
-            _displayShowText = true;
-            print(2);
-            await UniTask.WaitUntil(() => greenTop.engaged);
-            print(3);
-            await UniTask.WaitUntil(() => greenBottom.engaged);
-            print(4);
-            rotor.rotating = true;
-            print(5);
-            await UniTask.WaitUntil(() => redBottom.engaged);
-            print(6);
-            rotor.rotating = false;
-            print(7);
-            await UniTask.WaitWhile(() => display.TurnedOn);
-            _displayShowText = false;
-            print(8);
-            await UniTask.WaitWhile(() => power.TurnedOn);
+            
         }
 
         public void Update()

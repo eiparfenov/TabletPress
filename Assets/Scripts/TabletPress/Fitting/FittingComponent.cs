@@ -17,10 +17,10 @@ namespace TabletPress.Fitting
         public event Action<FittingComponent> onAttachedToHand;
         public event Action<FittingComponent, FittingStartBox> onEnterStartPosition; 
         public event Action<FittingComponent, FittingStartBox> onExitStartPosition;
-        private bool _interacting = true;
+        public bool Interacting { get; set; } = true;
         public void Lock(Transform target = null)
         {
-            if (!_interacting)
+            if (!Interacting)
             {
                 return;
             }
@@ -61,7 +61,7 @@ namespace TabletPress.Fitting
 
         public void SetInteractable(bool interact)
         {
-            _interacting = interact;
+            Interacting = interact;
         }
 
         public void SetPhysics(bool gravity)

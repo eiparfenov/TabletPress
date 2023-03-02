@@ -136,11 +136,13 @@ namespace TabletPress.Fitting
                         .magnitude < .03f)
                 {
                     component.Lock();
-
                 }
             }
 
-            component.State = FittingPartState.InSpace;
+            if (component.Interacting)
+            {
+                component.State = FittingPartState.InSpace;
+            }
         }
 
         private void FittingComponentOnExitStartPosition(FittingComponent component, FittingStartBox startBox)
